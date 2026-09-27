@@ -70,7 +70,7 @@ Running three separate neural networks (Audio, LLM, Vision) simultaneously on st
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/](https://github.com/)\[your-username]/Sentinel-NPU.git
+&#x20;  git clone https://github.com/GarudaHayabusa/Sentinel-NPU.git
 
 &#x20;  cd Sentinel-NPU
 
