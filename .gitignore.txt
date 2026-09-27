@@ -1,0 +1,19 @@
+```text
+# Ignore large AI model files
+*.onnx
+*.pt
+*.bin
+*.tflite
+*.safetensors
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db

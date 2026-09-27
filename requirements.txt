@@ -1,0 +1,6 @@
+qai-hub           # Qualcomm AI Hub SDK
+onnxruntime       # To run the exported optimized models
+opencv-python     # For the YOLOv8 webcam shoulder-surfing detection
+numpy             # Matrix/array processing
+sounddevice       # For capturing live audio for Whisper
+streamlit         # Fast UI framework for the desktop app
